@@ -1,0 +1,1 @@
+Código para a geração de números aleatórios para loteria, feito em c++ no netbeans, segue na pasta o projeto inteiro.
